@@ -6,11 +6,5 @@
 PoC, Labs, Algoritmos y Prácticas Node.js
 </h3>
 
-
-#### Tests
-```
-node fibonacci
-```
-
 ##### Made with ❤️ by Leandro Arturi
 
