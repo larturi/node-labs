@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/apple-and-orange/problem?h_r=profile
+
 function countApplesAndOranges(s, t, a, b, apples, oranges) {
 
     const distances_a = [];
